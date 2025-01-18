@@ -1,5 +1,6 @@
 -- Create the database\CREATE DATABASE ecommerce;
 CREATE DATABASE ecommerce;
+use ecommerce;
 
 
 -- Create the customers table
